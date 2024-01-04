@@ -6,7 +6,7 @@ public class PrintNumbers {
 		for(int i=1; i<=10; i++) {
 			System.out.println(i);
 		}
-		System.out.println("Number are printed");
+		System.out.println("Number are printed with for loop");
 
 	}
 
